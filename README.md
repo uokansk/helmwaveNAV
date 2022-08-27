@@ -21,7 +21,6 @@ HelmWave is like docker-compose for helm.
 > We focus on speed execution, tiny size, pretty debugging.
 
 With helmwave you will become a superhero:
-
 - Deploy multiple environments by one step
 - Separate values for environments
 - Common values for apps
